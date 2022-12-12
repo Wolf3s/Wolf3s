@@ -11,5 +11,6 @@ in my free time also like ti port some duas for
 Video games such as x360, ps2 or whatsoever.
 Bônus: ~~i'm redpill/fatalist boy~~
 [My favorite music](https://youtu.be/bFvjR4bYj7Y)
-
-
+[Youtube](https://youtube.com/@wolf3s567)
+[Archive.org](https://archive.org/details/@andre_gamer)
+[Discord](Wolf3s#6897)
