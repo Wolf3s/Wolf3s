@@ -9,7 +9,7 @@ I like in my freetime sometimes remaster some old movies
 tv programs with some modernized audio and i like
 in my free time also like ti port some duas for 
 Video games such as x360, ps2 or whatsoever.
-Bônus: ~~i'm redpill/fatalist boy~~
+Bonus: ~~i'm redpill/fatalist boy~~
 
 [My favorite music](https://youtu.be/bFvjR4bYj7Y)
 
