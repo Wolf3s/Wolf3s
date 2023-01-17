@@ -21,6 +21,9 @@ ps2(prefered), xbox and etc.
 Bonus: ~~i'm redpill/fatalist boy~~
 
 [My favorite music](https://youtu.be/bFvjR4bYj7Y)
+
 [Youtube](https://youtube.com/@wolf3s567)
+
 [Archive.org](https://archive.org/details/@andre_gamer)
+
 [Discord](Wolf3s#6897)
