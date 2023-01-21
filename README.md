@@ -3,13 +3,13 @@ Hello there my name is André Guilherme
 ,i'm a indie game developer/engine programmer started my carrer
 in 2020/2021 while i was trying to study to mod the open ps2 loader 
 on the time i've learned c++(my mistake but it's a good one) and then
-i gave up so i used to program some source ports like these ones:
+i gave up and so i used to program some source ports like these ones:
 [Doom64EX-Plus](https://github.com/atsb/Doom64EX-Plus)
 [Wolfy4SDL](https://github.com/Doom-modding-and-etc/Wolf4SDL)
 [glDoom](https://github.com/atsb/glDoom)
 [ps2doom](https://github.com/Doom-modding-and-etc/ps2doom)
 [doomgeneric-ps2](https://github.com/Arawn-Davies/doomgeneric-ps2)
-who worked with: [Tyra Engine](https://github.com/h4570/tyra), 
+and i worked with: [Tyra Engine](https://github.com/h4570/tyra), 
 id tech 0, id tech 1, HPL1 Engine and a few tools
 I use C 80% in projects due to it's compatbility 
 and easy maintence compared to c++.
