@@ -5,7 +5,7 @@ in 2020/2021 while i was trying to study to mod the open ps2 loader
 on the time i've learned c++(my mistake but it's a good one) and then
 i gave up and so i used to program some source ports like these ones:
 [Doom64EX-Plus](https://github.com/atsb/Doom64EX-Plus)
-[Wolfy4SDL](https://github.com/Doom-modding-and-etc/Wolf4SDL)
+[Wolf4SDL](https://github.com/Doom-modding-and-etc/Wolf4SDL)
 [glDoom](https://github.com/atsb/glDoom)
 [ps2doom](https://github.com/Doom-modding-and-etc/ps2doom)
 [doomgeneric-ps2](https://github.com/Arawn-Davies/doomgeneric-ps2)
