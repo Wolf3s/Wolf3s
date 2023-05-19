@@ -9,7 +9,7 @@ i gave up and so i used to program some source ports like these ones:
 [glDoom](https://github.com/atsb/glDoom),
 [ps2doom](https://github.com/Doom-modding-and-etc/ps2doom),
 [doomgeneric-ps2](https://github.com/Arawn-Davies/doomgeneric-ps2),
-and i worked with: [Tyra Engine](https://github.com/h4570/tyra), 
+[Tyra Engine](https://github.com/h4570/tyra), 
 id tech 0, id tech 1, HPL1 Engine and a few tools
 I use C 80% in projects due to it's compatbility 
 and easy maintence compared to c++.
