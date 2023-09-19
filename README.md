@@ -26,4 +26,4 @@ PS2(prefered), OG Xbox and etc.
 
 [Discord](Wolf3s#6897)
 
-[Ko-FI](https://ko-fi.com/Settings?tab=profile)
+[Ko-FI](https://ko-fi.com/wolf3s#paypalModal)
