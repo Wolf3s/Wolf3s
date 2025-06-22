@@ -27,4 +27,4 @@ Nowadays i´m graduating bacherlor degree on computer science at: [Veiga De Alme
 
 [Discord](Wolf3s#6897)
 
-[Ko-FI](https://ko-fi.com/wolf3s#paypalModal)
+~~[Ko-FI](https://ko-fi.com/wolf3s#paypalModal)~~
