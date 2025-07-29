@@ -1,8 +1,8 @@
 ### My Biography 
 Hello there my name is André Guilherme, i'm a brazilian indie game developer/engine programmer, i
 started my carrer on 2020/2021 while i was trying to study the open ps2 loader 
-to create some lib that supports exfat or ext4 on linux but i miserably failed
-on the time i've learned C++ Language(my mistake) and then
+to create some lib that supports exfat or ext4 on linux but i failed
+on the time i've learned C++ Language and then
 i gave up but i used to program some source ports like these ones:
 [Doom64EX-Plus](https://github.com/atsb/Doom64EX-Plus),
 [Wolf4SDL](https://github.com/Doom-modding-and-etc/Wolf4SDL),
@@ -18,13 +18,10 @@ tv programs with some modernized audio and
 in my free time, i port some apps to consoles such as
 PS2(prefered), OG Xbox and etc.
 Nowadays i´m graduating bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/)
-
-~~[My favorite music](https://youtu.be/bFvjR4bYj7Y)~~
+and trying to be a stoic person in a bad world.
 
 [Youtube](https://youtube.com/@wolf3s567)
 
 [Archive.org](https://archive.org/details/@andre_gamer)
 
 [Discord](Wolf3s#6897)
-
-~~[Ko-FI](https://ko-fi.com/wolf3s#paypalModal)~~
