@@ -17,8 +17,7 @@ I like in my freetime sometimes remaster some old movies,
 tv programs with some modernized audio and
 in my free time, i port some apps to consoles such as
 PS2(prefered), OG Xbox and etc.
-Nowadays i´m graduating bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/)
-and trying to be a stoic person in a bad world.
+Nowadays i´m graduating bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/).
 
 [Youtube](https://youtube.com/@wolf3s567)
 
