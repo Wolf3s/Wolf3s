@@ -12,9 +12,9 @@ Since then, I’ve worked on several source ports and related projects, includin
 id tech 0, id tech 1, HPL1/HPL2 Engine and a few tools
 I use C/C++, most of the time in my project.
 Hobbies:
-Listening to retro game soundtracks and classic synth music.
-Studying console hardware and low-level system design.
-Exploring old software and emulation projects for preservation purposes.
+- Listening to retro game soundtracks and classic synth music.
+- Studying console hardware and low-level system design.
+- Exploring old software and emulation projects for preservation purposes.
 
 Nowadays i´m pursuing a bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/).
 
