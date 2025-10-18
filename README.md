@@ -1,23 +1,22 @@
 ### My Biography 
-Hello there my name is André Guilherme, i'm a brazilian indie game developer/engine programmer, i
-started my carrer on 2020/2021 while i was trying to study the open ps2 loader 
-to create some lib that supports exfat or ext4 on linux but i failed
-on the time i've learned C++ Language and then
-i gave up but i used to program some source ports like these ones:
+Hello there! My name is André Guilherme, and I’m a Brazilian indie game developer and engine programmer.
+I started my career around 2020–2021 while studying Open PS2 Loader, with the goal of creating a library that supports exFAT but didn´t sucedded nowadays it´s superceed.
+Since then, I’ve worked on several source ports and related projects, including:
 [Doom64EX-Plus](https://github.com/atsb/Doom64EX-Plus),
 [Wolf4SDL](https://github.com/Doom-modding-and-etc/Wolf4SDL),
 [glDoom](https://github.com/atsb/glDoom),
 [ps2doom](https://github.com/Doom-modding-and-etc/ps2doom),
 [doomgeneric-ps2](https://github.com/Arawn-Davies/doomgeneric-ps2),
 [Tyra Engine](https://github.com/h4570/tyra), 
+[prboom-plus-ps2](https://github.com/Wolf3s/prboom-plus)
 id tech 0, id tech 1, HPL1/HPL2 Engine and a few tools
-I use C most of the time C89 or K&R in the projects due to it's compatbility 
-and easy maintence compared to C++.
-I like in my freetime sometimes remaster some old movies,
-tv programs with some modernized audio and
-in my free time, i port some apps to consoles such as
-PS2(prefered), OG Xbox and etc.
-Nowadays i´m graduating bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/).
+I use C/C++, most of the time in my project.
+Hobbies:
+Listening to retro game soundtracks and classic synth music.
+Studying console hardware and low-level system design.
+Exploring old software and emulation projects for preservation purposes.
+
+Nowadays i´m pursuing a bacherlor degree on computer science at: [Veiga De Almeida´s University](https://uva.br/).
 
 [Youtube](https://youtube.com/@wolf3s567)
 
