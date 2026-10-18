@@ -1,7 +1,10 @@
 
 André Guilherme | C/C++ Game & Systems Programmer
+
 I'm a Brazilian Computer Science student and open-source developer focused on C/C++, game porting, engine development, and low-level systems programming.
+
 My work involves exploring existing codebases, adapting software to different hardware platforms, improving build systems, refactoring code, and investigating platform-specific challenges.
+
 What I Work On
 - Game & Engine Programming: C/C++, game engine code, source ports, and game development.
 - Console Porting: Adapting games and libraries for platforms such as PlayStation 2, PSP, Xbox, and Xbox 360.
